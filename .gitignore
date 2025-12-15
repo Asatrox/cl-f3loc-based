@@ -49,3 +49,6 @@ dataset/
 
 # checkpoints
 checkpoints/
+
+# res (use for test)
+res/
